@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Porfolio-LandingPage/static/css/main.506b5f5f.css",
+    "main.js": "/Porfolio-LandingPage/static/js/main.fa2efe31.js",
+    "static/media/cash-flow-video.mp4": "/Porfolio-LandingPage/static/media/cash-flow-video.aeabfccf245dce2a703b.mp4",
+    "static/media/cash-flow-cel.mp4": "/Porfolio-LandingPage/static/media/cash-flow-cel.ec0d99ae090156d2bf18.mp4",
+    "static/media/snap-cel.mp4": "/Porfolio-LandingPage/static/media/snap-cel.b6baa2ce6ece46d61715.mp4",
+    "static/media/sophie-video.mp4": "/Porfolio-LandingPage/static/media/sophie-video.61f36572750bceb5bb2c.mp4",
+    "static/media/snap.mp4": "/Porfolio-LandingPage/static/media/snap.58baf2e6268c51c8e09c.mp4",
+    "static/media/Sophie.png": "/Porfolio-LandingPage/static/media/Sophie.67c6d9f2973f121e5e78.png",
+    "static/media/foto-perfil.jpg": "/Porfolio-LandingPage/static/media/foto-perfil.ec0cfb8c542c39f3d6a1.jpg",
+    "static/media/cash-flow-dia.png": "/Porfolio-LandingPage/static/media/cash-flow-dia.e21f46903d1b2ecac07f.png",
+    "static/media/cash-flow-noche.png": "/Porfolio-LandingPage/static/media/cash-flow-noche.7bf109c2f0359d858e1c.png",
+    "static/media/programmer.avif": "/Porfolio-LandingPage/static/media/programmer.bd5fdb9b5212bd31afc5.avif",
+    "index.html": "/Porfolio-LandingPage/index.html",
+    "main.506b5f5f.css.map": "/Porfolio-LandingPage/static/css/main.506b5f5f.css.map",
+    "main.fa2efe31.js.map": "/Porfolio-LandingPage/static/js/main.fa2efe31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506b5f5f.css",
+    "static/js/main.fa2efe31.js"
+  ]
+}
